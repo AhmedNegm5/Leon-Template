@@ -1,2 +1,2 @@
 # Leon-Template
-It's Application for HTML and CSS
+It's a responsive application for HTML and CSS.
